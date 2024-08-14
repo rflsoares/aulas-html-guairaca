@@ -1,0 +1,13 @@
+body {
+    background-color: #808080;
+}
+
+.title {
+    font-size: 42px;
+    color: orange;
+}
+
+#text-content {
+    font-size: 12px;
+    color: green;
+}
