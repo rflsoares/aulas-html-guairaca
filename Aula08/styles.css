@@ -1,0 +1,31 @@
+body {
+    background-color: gray;
+    font-family: Arial, san-serif;
+}
+.header {
+    display: flex;
+    justify-content: space-betweeen;
+    align-items: center;
+    background-color: #00e9b6fa;
+    color: green;
+    padding: 15px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.menu {
+    display: flex;
+    gap: 20px;
+}
+
+.login-btn {
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer:
+}
