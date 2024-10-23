@@ -15,3 +15,8 @@ function togglePulse() {
     const div = document.getElementById('pulsing-div');
     div.classList.toggle('pulsing')
 }
+
+function zoomIn() {
+    const div = document.getElementById('zooming-div');
+    div.classList.add('zooming');
+}
